@@ -1,3 +1,4 @@
 ### Thanks To 
-[`@xhry`](https://github.com/xhry)
-[`@sandhikagalih`](https://github.com/sandhikagalih)
+[`@xhry`](https://github.com/sekha)
+[`@sandhikagalih`](https://github.com/sekha
+)
